@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saksham Thukral and I'm a Software Engineer with 2+ Years of experience in developing REST APIs, Machine Learning, and Data Engineering solutions for my clients</h2>
+<h2 align="left">Hi 👋! My name is Saksham Thukral and I'm a Software Engineer with 2+ Years of experience in developing REST APIs, Machine Learning, and Data Engineering solutions</h2>
 
 ###
 

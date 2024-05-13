@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Thukral</h1>
-<h3 align="left">Software Engineer with 2+ years of experience in Machine Learning and Data Engineering <br> Mentor/Advisor at the University of Windsor’s AI Club and formerly a mentor of AI-Center of Excellence at Daffodil Software <br> I possess expertise in developing end-to-end AI products/projects for my clients across Legal Technology, E-commerce, and HealthCare Domains</h3>
+<h4 align="left">Software Engineer with 2+ years of experience in Machine Learning and Data Engineering. <br> Mentor/Advisor at the University of Windsor’s AI Club and formerly a mentor of AI-Center of Excellence at Daffodil Software. <br> I possess expertise in developing end-to-end AI products/projects for my clients across Legal Technology, E-commerce, and HealthCare Domains.</h4>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 - 🔭 I’m currently working on [IntelliTrades-AI-Trading-Bot](https://github.com/sakshamthukral/IntelliTrades-AI-Trading-Bot)
 
 - 🌱 I’m currently learning **Generative AI technologies like LLMs and frameworks for developing RAG Pipelines.**
